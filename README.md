@@ -1,2 +1,2 @@
-# SyndicateTect
-LINETCR
+Syndicate Protect
+__________________
