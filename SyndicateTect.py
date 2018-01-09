@@ -6,11 +6,11 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re,os,subprocess
 
 cl = LINETCR.LINE() #Luffy
-cl.login(token="EoSRWiJrPnfAqLmQGn47./V26Y+84iM0vgub4NBmb1W.jYzytE8tcnebPY654r/5nWZfDYEdGDLIThZ1cNs/dTU=")
+cl.login(token="Eo5BjoYi55viLhTMrzw8.PYMrhZGwJB/2GGmJ1qwEEa.5rNIT6G7RuL/5P0CljJtADnu7jF7WZxJvHmrxW5SC94=")
 cl.loginResult()
 
 ki = LINETCR.LINE() #Zorro
-ki.login(token="EoldsMoDUiQW9zc9KVY9.W875+I/d4MpqYaWtTDuNcq.CXfZn9aybyEM0rBIokys8KWf4PuYUvHdlBcHcx6d3Fk=")
+ki.login(token="EoXzlSq6mITiahYHUwWa.eH0SrjgVnNPLs/+4FC4eYG.ivu2rsLF39L7saFb4T39rqXxcuJUsIgHiaBii35CwlE=")
 ki.loginResult()
 
 kk = LINETCR.LINE() #Sanji
